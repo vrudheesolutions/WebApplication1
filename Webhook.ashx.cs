@@ -13,7 +13,7 @@ namespace WebApplication1
 
         public void ProcessRequest(HttpContext context)
         {
-            context.Response.ContentType = "text/plain";
+            context.Response.ContentType = "application/json";
             context.Response.Write("Test");
         }
 
