@@ -14,7 +14,7 @@ namespace WebApplication1
         public void ProcessRequest(HttpContext context)
         {
             context.Response.ContentType = "text/plain";
-            context.Response.Write("Hello World new");
+            context.Response.Write("Hello World new second time");
         }
 
         public bool IsReusable
