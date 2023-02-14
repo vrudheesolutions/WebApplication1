@@ -66,6 +66,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="github.bat" />
     <None Include="Properties\PublishProfiles\WebApplication1.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -1,3 +1,3 @@
 c:
-cd c:\iis
+cd C:\inetpub\wwwroot\WEBHOOKS\WebApplication1
 git pull
